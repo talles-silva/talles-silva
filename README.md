@@ -18,7 +18,7 @@
   ##
   
  <div> &nbsp
-    <a href="https://www.instagram.com/talles2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  
+    <!-- <a href="https://www.instagram.com/talles2/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>  -->
     <a href = "mailto:talles_ramos2012@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">  </a>
     <a href="https://www.linkedin.com/in/talles-silva-855a32175/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   </div>
@@ -26,5 +26,5 @@
 
 
 
-![AnimeComputerGIF](https://user-images.githubusercontent.com/91147254/198373957-5df1dbcc-1ee9-455a-a89e-ef7886c621e2.gif)
+<!-- ![AnimeComputerGIF](https://user-images.githubusercontent.com/91147254/198373957-5df1dbcc-1ee9-455a-a89e-ef7886c621e2.gif) -->
 </div>
