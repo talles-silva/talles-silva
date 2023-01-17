@@ -1,4 +1,4 @@
-## Olá! Eu sou o Talles Silva 😎
+## Hi there, I'm <a href="https://github.com/talles-silva">Talles Silva</a> 👋
 <div align="center">
   <a href="https://github.com/talles-silva">
   <img height="160em" align="center" src="https://github-readme-stats.vercel.app/api?username=talles-silva&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true" />&nbsp&nbsp&nbsp
