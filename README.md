@@ -8,17 +8,6 @@ My focus is on translating complex challenges into efficient, secure, and high-p
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <a href="https://github.com/talles-silva">
-    <img height="170em" src="https://github-readme-stats.vercel.app/api?username=talles-silva&show_icons=true&count_private=true&show_rank=true&theme=tokyonight&hide_border=true" />
-    <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=talles-silva&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
-  </a>
-</div>
-
----
-
 ### 🛠️ Core Technologies
 
 <div align="center">
